@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illyay2017/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illyay2017/nodeJS/issues"
+  },
+  "homepage": "https://github.com/illyay2017/nodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "live-server": "^1.2.0"
+  }
+}
